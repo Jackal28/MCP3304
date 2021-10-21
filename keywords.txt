@@ -1,0 +1,21 @@
+#############
+# Functions #
+#############
+MCP3304		KEYWORD2	
+
+raw_MCP3304 	KEYWORD2
+
+volt_MCP3304	KEYWORD2
+
+avg_MCP3304	KEYWORD2
+
+mVAvg_MCP3304	KEYWORD2
+
+mV_MCP3304	KEYWORD2
+#############
+#Constants #
+#############
+TX	KEYWORD1
+RX	KEYWORD1
+SCK	KEYWORD1
+CS	KEYWORD1
