@@ -1,14 +1,12 @@
 //
 //    FILE: MCP3304.h
 //  AUTHOR: Brandon Blair
-// VERSION: 0.0.1
-//    DATE: 2021-09-04
+// VERSION: 0.0.3
+//    DATE: 2021-10-05
 // PURPOSE: Arduino library initial intended for Universal Battery Charger
 //     URL: https://github.com/Jackal28/MCP3304
 //
-
-//my first library, not very useful to most unless you are using an mcp3208, specifically, or 2 ina260s, with voltage dividers
-//but practice makes perfect, and if this works, maybe my next one will help out others
+//
 
 #ifndef MCP3304_H
 #define MCP3304_H
